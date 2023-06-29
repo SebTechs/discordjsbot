@@ -1,0 +1,14 @@
+{
+  "name": "javascript-discord-bot-collab",
+  "version": "1.0.0",
+  "description": "Discord Bot made using js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seb / James",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
