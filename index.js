@@ -10,10 +10,7 @@ const { token } = require("./config.json");
 //Little error handler
 if (token === "Please enter your bot token here!") {
     console.log("Enter your bot token in config.json before starting.");
-}
-else{
-
-
+} else {
     // Create a new client instance
     const client = new Client({
         intents: [
